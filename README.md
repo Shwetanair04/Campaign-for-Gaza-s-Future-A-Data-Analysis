@@ -1,10 +1,10 @@
-#Campaign for Gaza's Future: A Data Analysis
+# Campaign for Gaza's Future: A Data Analysis
 
 By reviewing the file and working on the data cleaning and analysis as requested. I'll clean the data, split the name data, ensure opt-in status, and then proceed with the analysis, including the running total of funds raised.
 
 
 
-#Initial data Analysis:
+# Initial data Analysis:
 
 The dataset includes the following columns:
 
@@ -26,7 +26,7 @@ rates, Sort the data by donation date & Calculate the running total of funds rai
 
 The data has been successfully converted to USD, sorted by donation date, and the running total of funds raised has been calculated.
 
-#THE FINDINGS
+# THE FINDINGS
 
 A short report with insights, predictions, and recommendations for reaching the campaign target of 1.5 million USD. This report will summarize the key findings, trends, and offer suggestions for future actions.
 
@@ -73,19 +73,21 @@ Now, after the new data se has been created. We are going to see some simple vis
 
  
 
-#Recommendations
+# Recommendations
 
 •	Increase Average Donation Size:
 o	Campaign Enhancements: Encourage higher donations by offering incentives, such as matching donation days where a sponsor matches every dollar donated.
 o	Personalized Appeals: Target donors with personalized messages that emphasize the impact of larger contributions.
+
 •	Boost Donation Frequency:
 o	Regular Updates: Keep donors engaged with regular updates on campaign progress, highlighting how close you are to key milestones.
 o	Recurring Donations: Encourage donors to set up recurring monthly donations. Even small amounts can add up significantly over time.
+
 •	Target High-Impact Donors:
 o	Segment Donors: Identify and focus on high-potential donors who might be willing to give larger amounts.
 o	Corporate Partnerships: Explore partnerships with companies that might be willing to make larger, lump-sum donations or match employee contributions.
+
 •	Leverage Key Dates and Events:
 o	Special Campaign Days: Align with global fundraising events like Giving Tuesday to maximize exposure and contributions.
 o	Event-Based Donations: Host special events or online campaigns where all proceeds go towards the fundraising goal.
 
-The New data set with only the people who have opted in to hear from us: data set
