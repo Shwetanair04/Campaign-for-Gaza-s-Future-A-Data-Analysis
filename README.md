@@ -64,14 +64,17 @@ Estimated Time to Reach Target:
 Now, after the new data se has been created. We are going to see some simple visualization to see the distribution between various group. 
 
 1)	The line chart showing the cumulative amount of funds raised over time. The chart appears to depict a significant increase in fundraising around early July 2024.
- 
+ <img width="1010" alt="Screenshot 2024-09-03 at 6 03 23 PM" src="https://github.com/user-attachments/assets/08e14bd1-bd01-413e-92e1-a5a720ec2cdf">
+
 
 2)	The bar chart shows the amount donated on a daily basis within a small range.
-  
+  <img width="1031" alt="Screenshot 2024-09-03 at 6 05 52 PM" src="https://github.com/user-attachments/assets/2c9b7ee9-9cbf-4eb8-860e-931e7a5d5bfd">
+
 
 3)	Here we see donation source throughout different platforms.
 
- 
+ <img width="666" alt="Screenshot 2024-09-03 at 6 06 06 PM" src="https://github.com/user-attachments/assets/77b995a5-a86a-43bb-8e91-923bb07bad26">
+
 
 # Recommendations
 
